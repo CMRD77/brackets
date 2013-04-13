@@ -55,6 +55,7 @@ define(function (require, exports, module) {
     require("spec/NodeConnection-test");
     require("spec/PreferencesManager-test");
     require("spec/ProjectManager-test");
+    require("spec/Registry-test");
     require("spec/QuickOpen-test");
     require("spec/StringMatch-test");
     require("spec/UpdateNotification-test");
